@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank exercises
+Exercises from HackerRank Preparation or inspired by them.
