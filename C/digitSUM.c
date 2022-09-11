@@ -43,7 +43,7 @@ int main()
 
         Sleep(5000);
 
-        printf("\n\n Do you wish to insert a new number? (Y/N): ");
+        printf("\n\n Do you want to insert a new number? (Y/N): ");
         getchar();
         answer = getchar();
         getchar();
